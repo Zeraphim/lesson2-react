@@ -11,6 +11,8 @@ import Effect from "./components/pages/useEffect/Effect";
 import Hooks from "./components/pages/hooks/Hooks";
 import Error from "./components/pages/error/Error";
 
+// This is a comment
+
 import './App.css';
 
 function App() {
